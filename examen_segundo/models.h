@@ -120,7 +120,7 @@ public:
     CNN() : Noticiero("CNN Noticias"){}
     void addNew(Person _who,std::string _note)
     {
-        //La idea seria que solo se suscribiera al Observer de Trump y de Hillary pero el tiempo no ayudo
+        //Aqui la ida era un proxy
         if (_who.getName()=="Hillary Clinton" || _who.getName() == "Trump" )
         {
             news[index]=_note;

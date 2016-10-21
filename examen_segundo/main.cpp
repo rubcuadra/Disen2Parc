@@ -35,6 +35,9 @@ int main(int argc, const char * argv[])
     
     MVS *m = new MVS();
     CNN *cnn = new CNN();
+    Azteca *az = new Azteca();
+    Televisa* tv = new Televisa();
+    Formula *fm = new Formula();
     
     while (flag==0)
     {
@@ -43,6 +46,9 @@ int main(int argc, const char * argv[])
         
         m->addNew(*current,_note);
         cnn->addNew(*current,_note);
+        az->addNew(*current,_note);
+        tv->addNew(*current,_note);
+        fm->addNew(*current,_note);
         
         std::cout<<"Hay mas noticias?\n0.- SI \n1.- NO\n";
         std:cin>>flag;

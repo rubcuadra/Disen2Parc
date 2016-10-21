@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C545B464801EA2378120013B3A568B9E4171A000",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C545B464801EA2378120013B3A568B9E4171A000" : 9223372036854775807,
+    "B0027CD2E6BED605B25D68BCE43EE85F622BBF7D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ACE0DECD-43FF-4126-AF75-639F042E4181",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C545B464801EA2378120013B3A568B9E4171A000" : "examen_segundo\/",
+    "B0027CD2E6BED605B25D68BCE43EE85F622BBF7D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "examen_segundo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "examen_segundo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rubcuadra\/TC2004_1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0027CD2E6BED605B25D68BCE43EE85F622BBF7D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rubcuadra\/Disen2Parc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C545B464801EA2378120013B3A568B9E4171A000"
+    }
+  ]
+}
